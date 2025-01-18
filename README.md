@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="![image](https://github.com/user-attachments/assets/6986676c-7ef4-40dd-9a6b-27b829e621e8)
-" alt="image">
+    <img src="https://tenor.com/view/night-shift-work-tired-working-computer-gif-15601814267832077527" alt="image">
 </body>
 </html>
