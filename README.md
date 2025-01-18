@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="[[https://tenor.com/view/night-shift-work-tired-working-computer-gif-15601814267832077527](https://media.tenor.com/2ITHaiXAjNcAAAAi/night-shift-work.gif)](https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif)" alt="image">
+    <img src="https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=" alt="image">
 </body>
 </html>
